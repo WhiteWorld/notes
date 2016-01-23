@@ -1,3 +1,7 @@
-# First Chapter
+# HBase
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+
+## Secondary Index
+- Filter Query (client)
+- Periodic-Update Secondary Index (MR job update another table)
+- 
