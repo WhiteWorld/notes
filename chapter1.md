@@ -60,3 +60,10 @@ regions affected by log splitting are unavailable until the process completes.
 ### region 状态机
 
 ![](https://hbase.apache.org/images/region_states.png)
+
+
+## Compaction
+
+minor 不删除记录，不淘汰过期记录
+major 检测要删除的记录，不写过期的版本数据到compaction之后的记录
+
