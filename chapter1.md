@@ -49,3 +49,14 @@ regions affected by log splitting are unavailable until the process completes.
 - split 到每个 Region 一个文件
 - 每个region replay
 
+提升性能：distributed log processing
+
+## Region
+
+### HBase 为少量(20~200)的region设计的
+
+### region assignment
+
+### region 状态机
+
+![](https://hbase.apache.org/images/region_states.png)
