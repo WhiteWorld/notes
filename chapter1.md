@@ -11,6 +11,8 @@
     
 ## RegionServer Splitting
 
+![](https://hbase.apache.org/images/region_split_process.png)
+
 - zookeeper 获取锁
 - Master 感知
 - 在父Region的HDFS目录下建立.split目录
@@ -36,3 +38,14 @@
 edits in the WAL file must be grouped by region so that particular sets can be replayed to regenerate the data in a particular region.
 
 由 HMaster 来完成。在集群启动时或 RegionServer 关闭时进行。
+
+regions affected by log splitting are unavailable until the process completes.
+
+![](http://blog.cloudera.com//wp-content/uploads/2012/06/log-splitting.png)
+
+步骤
+
+- rename 目录，保证新请求可用
+- split 到每个 Region 一个文件
+- 每个region replay
+
