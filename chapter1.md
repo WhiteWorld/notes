@@ -64,3 +64,25 @@ regions affected by log splitting are unavailable until the process completes.
 ## Compaction
 
 Major minor
+
+多种 major 策略
+
+## Bulk Loading
+
+直接生成HFile文件，然后bulk load到HBase 中
+
+
+## Timeline-consistent
+
+region replica
+
+```
+public enum Consistency {
+    STRONG,
+    TIMELINE
+}
+```
+
+![](https://hbase.apache.org/images/timeline_consistency.png)
+
+
