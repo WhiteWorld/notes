@@ -40,3 +40,15 @@ Read/Write
 ![](http://ww1.sinaimg.cn/large/7cc66542jw1f0f82u71fvj20sl0b0gn6.jpg)
 
 ![](http://ww2.sinaimg.cn/large/7cc66542jw1f0f85nau2xj20k50jbq5k.jpg)
+
+## Hadoop I/O
+
+### Data Integrity
+CRC-32 循环检测
+
+### Compression
+Native lib
+CodecPool
+
+### Serialization
+Writable Interface
