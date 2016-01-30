@@ -69,4 +69,7 @@ How work
 - Task assignment
 - Task execution
 - Progress and Status Updates
-- 
+
+FileInputFormat
+splits max(minimumSize, min(maximumsize, blockSize)
+small files CombineFileInputFormat
