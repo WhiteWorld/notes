@@ -52,3 +52,11 @@ CodecPool
 
 ### Serialization
 Writable Interface
+
+
+## MapReduce
+- MRUnit
+- Web UI
+- Debug (Remote)
+- Log
+- Tuning a Job, Profile
