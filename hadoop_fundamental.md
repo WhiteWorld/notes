@@ -73,3 +73,6 @@ How work
 FileInputFormat
 splits max(minimumSize, min(maximumsize, blockSize)
 small files CombineFileInputFormat
+
+日志收集系统
+![](http://dongxicheng.org/wp-content/uploads/2011/06/log-system-comapration.jpg)
