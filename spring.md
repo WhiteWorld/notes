@@ -1,4 +1,2 @@
 # Spring
 
-## Injecting dependencies
-
