@@ -41,6 +41,18 @@ Read/Write
 
 ![](http://ww2.sinaimg.cn/large/7cc66542jw1f0f85nau2xj20k50jbq5k.jpg)
 
+- ResourceManager
+- ApplicationMaster
+- Resource Model
+    - Resource name
+    - Amount of memory
+    - CPUs
+    - Eventually resources such as disk/network I/O, GPUs, and more
+
+
+
+
+
 ## Hadoop I/O
 
 ### Data Integrity
