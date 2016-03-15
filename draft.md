@@ -29,3 +29,7 @@ Two basic replication approaches
 MySQL Cluster provides synchronous replication using 2PC
 
 ### Partition tolerant consensus algorithms
+- Paxox
+- Raft
+
+网络分区，Majority decisions
