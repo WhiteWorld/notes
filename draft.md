@@ -1,6 +1,4 @@
 # Replication
-## Replication
-
 
 ### 分类
 
