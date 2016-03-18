@@ -4,7 +4,7 @@
 * [First Chapter](chapter1.md)
 * [Hadoop Fundamental](hadoop_fundamental.md)
 * [Spring](spring.md)
-* [Draft](draft.md)
+* [Replication](draft.md)
 * [Distributed System](distributed_system.md)
    * [abstraction](abstraction.md)
 
