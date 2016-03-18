@@ -25,3 +25,8 @@ Abstractions and models
 - System model (asynchronous / synchronous)
 - Failure model (crash-fail, partitions, Byzantine)
 - Consistency model (strong, eventual)
+
+Design techniques: partition and replicate
+
+![](http://book.mixu.net/distsys/images/part-repl.png)
+
