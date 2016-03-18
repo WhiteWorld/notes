@@ -5,6 +5,6 @@
 * [Hadoop Fundamental](hadoop_fundamental.md)
 * [Spring](Spring.md)
 * [Distributed System](distributed_system.md)
-   * [Replication](draft.md)
+   * [Replication](Replication.md)
    * [abstraction](abstraction.md)
 
