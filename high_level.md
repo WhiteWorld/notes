@@ -52,4 +52,13 @@ The CAP theorem
 - Availability: node failures do not prevent survivors from continuing to operate.
 - Partition tolerance: the system continues to operate despite message loss due to network and/or node failure
 
+Strong consistency models (capable of maintaining a single copy)
 
+- Linearizable consistency
+- Sequential consistency
+
+Weak consistency models (not strong)
+
+- Client-centric consistency models
+- Causal consistency: strongest model available
+- Eventual consistency models
