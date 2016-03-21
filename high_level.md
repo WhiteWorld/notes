@@ -54,8 +54,8 @@ The CAP theorem
 
 Strong consistency models (capable of maintaining a single copy)
 
-- Linearizable consistency
-- Sequential consistency
+- Linearizable consistency:Under linearizable consistency, all operations appear to have executed atomically in an order that is consistent with the global real-time ordering of operations. (Herlihy & Wing, 1991)
+- Sequential consistency:Under sequential consistency, all operations appear to have executed atomically in some order that is consistent with the order seen at individual nodes and that is equal at all nodes. (Lamport, 1979)
 
 Weak consistency models (not strong)
 
