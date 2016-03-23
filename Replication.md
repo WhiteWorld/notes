@@ -87,12 +87,34 @@ Paxos
 - Less sensitive to tail latency
 
 
+Weak consistency model protocols
 
+Eventual consistency with probabilistic guarantees
 
+Amazon's Dynamo
+set(key, value)  get(key)
+Dynamo prioritizes availability over consistency;t does not guarantee single-copy consistency.Instead, replicas may diverge from each other when values are written; when a key is read, there is a read reconciliation phase that attempts to reconcile differences between replicas before returning the value back to the client.
 
+    [ Client ]
+        |
+    ( Mapping keys to nodes )
+        |
+        V
+    [ Node A ]
+        |     \
+    ( Synchronous replication task: minimum durability )
+        |        \
+    [ Node B]  [ Node C ]
+        A
+        |
+    ( Conflict detection; asynchronous replication task:
+      ensuring that partitioned / recovered nodes recover )
+        |
+        V
+    [ Node D]
 
-
-
-
+Consistent hashing
+Partial quorums
+Conflict detection and read repair
 
 
