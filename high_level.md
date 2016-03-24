@@ -44,6 +44,10 @@ FLP
 
 there does not exist a (deterministic) algorithm for the consensus problem in an asynchronous system subject to failures, even if messages can never be lost, at most one process may fail, and it can only fail by crashing (stopping executing)
 
+
+
+
+
 The CAP theorem
 
 ![](http://book.mixu.net/distsys/images/CAP.png)
