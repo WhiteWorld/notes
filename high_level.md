@@ -66,3 +66,13 @@ Weak consistency models (not strong)
 - Client-centric consistency models
 - Causal consistency: strongest model available
 - Eventual consistency models
+
+Failure modes for distributed systems
+
+- Byzantine or arbitrary failures
+- Authentification detectable byzantine failures
+- Performance failures
+- Omission failures
+- Crash failures
+- Fail-stop failures
+
