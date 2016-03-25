@@ -91,7 +91,7 @@ Weak consistency model protocols
 
 Eventual consistency with probabilistic guarantees
 
-**Amazon's Dynamo**
+### Amazon's Dynamo
 
 set(key, value)  get(key)
 Dynamo prioritizes availability over consistency;t does not guarantee single-copy consistency.Instead, replicas may diverge from each other when values are written; when a key is read, there is a read reconciliation phase that attempts to reconcile differences between replicas before returning the value back to the client.
