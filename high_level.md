@@ -30,7 +30,7 @@
 
 ![](http://book.mixu.net/distsys/images/part-repl.png)
 
-A system model
+### A system model
 
 a set of assumptions about the environment and facilities on which a distributed system is implemented
 
@@ -40,15 +40,13 @@ Nodes in our system model
 - the ability to store data into volatile memory (which can be lost upon failure) and into stable state (which can be read after a failure)
 - a clock (which may or may not be assumed to be accurate)
 
-FLP
+### FLP
 
 there does not exist a (deterministic) algorithm for the consensus problem in an asynchronous system subject to failures, even if messages can never be lost, at most one process may fail, and it can only fail by crashing (stopping executing)
 
 
 
-
-
-The CAP theorem
+### The CAP theorem
 
 如果进程之间可能丢失某些消息，那么不可能在实现一致性存储的同时能响应所有的请求。
 
