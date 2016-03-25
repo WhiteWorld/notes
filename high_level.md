@@ -50,6 +50,8 @@ there does not exist a (deterministic) algorithm for the consensus problem in an
 
 The CAP theorem
 
+如果进程之间可能丢失某些消息，那么不可能在实现一致性存储的同时能响应所有的请求。
+
 ![](http://book.mixu.net/distsys/images/CAP.png)
 
 - Consistency: all nodes see the same data at the same time.
