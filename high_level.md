@@ -56,18 +56,18 @@ there does not exist a (deterministic) algorithm for the consensus problem in an
 - Availability: node failures do not prevent survivors from continuing to operate.
 - Partition tolerance: the system continues to operate despite message loss due to network and/or node failure
 
-Strong consistency models (capable of maintaining a single copy)
+### Strong consistency models (capable of maintaining a single copy)
 
 - Linearizable consistency:Under linearizable consistency, all operations appear to have executed atomically in an order that is consistent with the global real-time ordering of operations. (Herlihy & Wing, 1991)
 - Sequential consistency:Under sequential consistency, all operations appear to have executed atomically in some order that is consistent with the order seen at individual nodes and that is equal at all nodes. (Lamport, 1979)
 
-Weak consistency models (not strong)
+### Weak consistency models (not strong)
 
 - Client-centric consistency models
 - Causal consistency: strongest model available
 - Eventual consistency models
 
-Failure modes for distributed systems
+### Failure modes for distributed systems
 
 - Byzantine or arbitrary failures
 - Authentification detectable byzantine failures
