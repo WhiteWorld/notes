@@ -7,6 +7,5 @@
 * [High level](high_level.md)
 * [Distributed System](distributed_system.md)
    * [Replication](Replication.md)
-   * [High level](high_level.md)
    * [Time and order](time_and_order.md)
 
