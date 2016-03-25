@@ -91,6 +91,20 @@ Weak consistency model protocols
 
 Eventual consistency with probabilistic guarantees
 
+
+### Quorum
+
+A quorum is the minimum number of votes that a distributed transaction has to obtain in order to be allowed to perform an operation in a distributed system. A quorum-based technique is implemented to enforce consistent operation in a distributed system.
+
+Quorum-based voting in commit protocols
+
+Quorum-based voting for replica control
+
+### State machine replication
+
+https://en.wikipedia.org/wiki/State_machine_replication
+
+
 ### Amazon's Dynamo
 
 set(key, value)  get(key)
