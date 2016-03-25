@@ -3,13 +3,13 @@
 > Distributed programming is the art of solving the same problem that you can solve on a single computer using multiple computers.
 
 
-计算机两大任务
+### 计算机两大任务
 
 - 存储
 - 计算
 
 
-目标
+### 目标
 
 - Scalability
 - Performance (and latency)
@@ -20,13 +20,13 @@
   - Availability = uptime / (uptime + downtime).
  
 
-Abstractions and models
+### Abstractions and models
 
 - System model (asynchronous / synchronous)
 - Failure model (crash-fail, partitions, Byzantine)
 - Consistency model (strong, eventual)
 
-Design techniques: partition and replicate
+### Design techniques: partition and replicate
 
 ![](http://book.mixu.net/distsys/images/part-repl.png)
 
