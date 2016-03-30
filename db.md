@@ -38,7 +38,7 @@ Limitations
 相关技术
 
 - SkipList
-- LSM
+- LMS-Tree
 
 ### CockroachDB
 
