@@ -1,5 +1,18 @@
 # DB
 
+### 论文
+
+[Megastore: Providing Scalable, Highly Available Storage for Interactive Services](http://research.google.com/pubs/pub36971.html)
+[Spanner: Google's Globally-Distributed Database](http://research.google.com/archive/spanner.html)
+[Large-scale Incremental Processing Using Distributed Transactions and Notifications](http://research.google.com/pubs/pub36726.html)
+[F1 - The Fault-Tolerant Distributed RDBMS Supporting Google's Ad Business](http://research.google.com/pubs/pub38125.html)
+
+
+### 临时资料
+Google Percolator
+http://blog.octo.com/en/my-reading-of-percolator-architecture-a-google-search-engine-component/
+http://www.slideshare.net/mikejf12/an-introduction-to-google-percolator
+
 ### LevelDB
 
 LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
@@ -22,3 +35,9 @@ Limitations
 - Only a single process (possibly multi-threaded) can access a particular database at a time.
 - There is no client-server support builtin to the library. An application that needs such support will have to wrap their own server around the library.
 
+
+### CockroachDB
+
+### TiDB
+
+### RocksDB
