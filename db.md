@@ -35,10 +35,30 @@ Limitations
 - Only a single process (possibly multi-threaded) can access a particular database at a time.
 - There is no client-server support builtin to the library. An application that needs such support will have to wrap their own server around the library.
 
+整体架构
+
+![结构](http://pic002.cnblogs.com/images/2011/274814/2011121116344075.png)
+
+写和删除
+![写和删除](http://pic002.cnblogs.com/images/2011/274814/2011121116371458.png)
+
+读
+![读](http://pic002.cnblogs.com/images/2011/274814/2011121116373065.png)
+
+Compaction
+![minor](http://pic002.cnblogs.com/images/2011/274814/2011121116374532.png)
+
+![SSTable Compaction](http://pic002.cnblogs.com/images/2011/274814/2011121116385923.png)
+
+
+
 相关技术
 
 - SkipList
-- LMS-Tree
+
+http://www.cnblogs.com/xuqiang/archive/2011/05/22/2053516.html
+
+- LSM-Tree
 
 ### CockroachDB
 
