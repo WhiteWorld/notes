@@ -89,3 +89,48 @@ public enum Consistency {
 ![](https://hbase.apache.org/images/timeline_consistency.png)
 
 
+
+## LSM-Tree
+
+算法介绍
+http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.8933
+HBase 使用
+http://jhaoniu.github.io/2014/03/18/lsm%20tree%E5%9C%A8HBase%E4%B8%AD%E7%9A%84%E5%AE%9E%E7%8E%B0/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
