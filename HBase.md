@@ -1,5 +1,8 @@
 # HBase
 
+老图
+![](http://7xnrdo.com1.z0.glb.clouddn.com/2013/hbase-structure.jpg)
+
 
 ## Secondary Index
 - Filter Query (client)
