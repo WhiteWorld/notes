@@ -35,6 +35,10 @@ Limitations
 - Only a single process (possibly multi-threaded) can access a particular database at a time.
 - There is no client-server support builtin to the library. An application that needs such support will have to wrap their own server around the library.
 
+相关技术
+
+- SkipList
+- LSM
 
 ### CockroachDB
 
