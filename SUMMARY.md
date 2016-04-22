@@ -10,5 +10,5 @@
    * [HBase](HBase.md)
    * [DB](db.md)
 * [Mathematics](mathematics.md)
-* Other
+* [Other](other.md)
 
