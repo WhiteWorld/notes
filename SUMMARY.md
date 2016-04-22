@@ -11,5 +11,5 @@
    * [DB](db.md)
 * [Mathematics](mathematics.md)
 * [Other](other.md)
-   * Hadoop Install
+   * [Hadoop Install](hadoop_install.md)
 
