@@ -62,5 +62,5 @@ A乘以A的逆等于单位矩阵，两侧同时转置，右侧单位矩阵转置
 
 任意矩阵A（不仅仅是方块矩阵）都可以进行LUP分解。其中的L和U矩阵是方阵，P矩阵则与A形状一样。
 
-证明参考：https://zh.wikipedia.org/wiki/LU%E5%88%86%E8%A7%A3
+证明参考：[LU分解维基百科](https://zh.wikipedia.org/wiki/LU%E5%88%86%E8%A7%A3)
 
