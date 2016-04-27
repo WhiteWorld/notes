@@ -13,5 +13,5 @@
 * [Other](other.md)
    * [Hadoop Install](hadoop_install.md)
    * [Spark](spark.md)
-   * Java
+   * [Java](java.md)
 
