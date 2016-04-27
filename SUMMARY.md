@@ -12,4 +12,5 @@
 * [Mathematics](mathematics.md)
 * [Other](other.md)
    * [Hadoop Install](hadoop_install.md)
+   * Spark
 
