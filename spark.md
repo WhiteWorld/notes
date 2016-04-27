@@ -22,3 +22,11 @@ RDD 操作
 - 转换 transformation
 - 动作 action
 
+RDD 缓存
+
+DISK  MEMORY 
+
+persist()
+cache()
+
+
