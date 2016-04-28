@@ -29,4 +29,6 @@ DISK  MEMORY
 persist()
 cache()
 
+窄依赖
 
+宽依赖
