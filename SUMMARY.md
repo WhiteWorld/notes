@@ -14,4 +14,5 @@
    * [Hadoop Install](hadoop_install.md)
    * [Spark](spark.md)
    * [Java](java.md)
+       * Scheme
 
