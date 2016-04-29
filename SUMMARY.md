@@ -12,6 +12,7 @@
 * [Mathematics](mathematics.md)
 * [Other](other.md)
    * [Hadoop Install](hadoop_install.md)
+   * [Scheme](scheme.md)
    * [Spark](spark.md)
    * [Java](java.md)
        * [Scheme](scheme.md)
