@@ -234,13 +234,24 @@ Ax=0的新算法：
 ### 正交矩阵和 Gram-Schmidt 正交化
 正交向量，用数学式子来表达就是
 
-[](http://img.blog.csdn.net/20140709162023078?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveGRmeW9nYTE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 由正交向量构成的方阵称为正交矩阵（orthogonal matrix）
 
 正交矩阵的例子
 
-[](http://img.blog.csdn.net/20140709162337657?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveGRmeW9nYTE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 Gram-Schmidt正交化方法是将线性无关的向量转化为标准正交化向量的方法
 
+### 行列式及其性质
+性质：
+
+- 单位矩阵的行列式为1
+- 如果交换矩阵的两行，则行列式的符号要取反。从这个性质我们可得出置换矩阵的行列式总是为1或-1，这取决于行交换的次数，行交换奇数次则为-1，偶数则为1。
+- 如果用某数t乘以矩阵的一行，则行列式等于原行列式的t倍。
+- 如果矩阵中有两行相等，那么行列式为0
+- 从矩阵的行k减去行i的l倍，行列式不会改变，即消元过程不改变行列式
+- 若矩阵中有一行是全0，则|A|=0
+- 三角阵的行列式等于对角线元素乘积
+- 当且仅当A是奇异阵时，detA=0，否则就是非奇异阵
+- detAB=det(A)det(B)
+- det(AT)=det(A)
