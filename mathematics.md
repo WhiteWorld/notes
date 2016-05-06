@@ -230,3 +230,17 @@ Ax=0的新算法：
 如果矩阵A各列线性无关（是最小二乘法成立的大前提），证明ATA是可逆矩阵。
 
 首先，相互垂直的各列向量一定是线性无关的（零向量除外）。相互垂直的单位向量一定是线性无关的，它们称为标准正交向量组。比如w(cosθ,sinθ)和v(-sinθ,cosθ)就是一组典型的标准正交向量（相互垂直且是单位向量）。下讲看看标准正交向量组有什么优点以及如何使向量组标准正交化。
+
+### 正交矩阵和 Gram-Schmidt 正交化
+正交向量，用数学式子来表达就是
+
+[](http://img.blog.csdn.net/20140709162023078?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveGRmeW9nYTE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+由正交向量构成的方阵称为正交矩阵（orthogonal matrix）
+
+正交矩阵的例子
+
+[](http://img.blog.csdn.net/20140709162337657?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveGRmeW9nYTE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+Gram-Schmidt正交化方法是将线性无关的向量转化为标准正交化向量的方法
+
