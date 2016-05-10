@@ -15,6 +15,6 @@
    * [Scheme](scheme.md)
    * [Spark](spark.md)
    * [Java](java.md)
-   * Go
+   * [Go](go.md)
 * [Compiler](compiler.md)
 
