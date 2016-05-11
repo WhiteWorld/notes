@@ -82,6 +82,8 @@ How work
 - Task execution
 - Progress and Status Updates
 
+![Phases of a Hadoop job](图片 1.png)
+
 FileInputFormat
 splits max(minimumSize, min(maximumsize, blockSize)
 small files CombineFileInputFormat
