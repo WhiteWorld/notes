@@ -86,3 +86,11 @@ final类中不允许被继承
 - 闭包
   - 类库时注册回调
   - 父类和实现接口出现同名函数
+
+集合类
+
+![继承关系](http://javaconceptoftheday.com/wp-content/uploads/2014/11/CollectionHierarchy.png)
+
+
+
+
