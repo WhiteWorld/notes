@@ -5,7 +5,6 @@
 程序员的数学
 
 
-
 ## 微积分重点
 参考：http://open.163.com/special/opencourse/weijifen.html
 ## Linear Algebra
