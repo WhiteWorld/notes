@@ -36,3 +36,16 @@ Flink 的内存管理的优势
 - Flink’s active memory management avoids nasty OutOfMemoryErrors that kill your JVMs and reduces garbage collection overhead.
 - Flink features a highly efficient data de/serialization stack that facilitates operations on binary data and makes more data fit into memory.
 - Flink’s DBMS-style operators operate natively on binary data yielding high performance in-memory and destage gracefully to disk if necessary.
+
+off-heap 的好处
+
+- 大 JVM 操作比较困难，垃圾回收代价昂贵。
+- I/O 和 网络效率高，零拷贝
+- 缓存的数据不因为进程的crash而丢失
+
+off-heap 缺点
+
+- on-heap 简单，直观
+- 临时内存 heap 中比较廉价
+- 在 heap 中的操作更快
+
