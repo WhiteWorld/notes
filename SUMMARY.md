@@ -10,7 +10,7 @@
    * [HBase](HBase.md)
    * [DB](db.md)
 * [Mathematics](mathematics.md)
-   * Probability and Statistics
+   * [Probability and Statistics](probability_and_statistics.md)
 * [Other](other.md)
    * [Hadoop](hadoop_install.md)
    * [Scheme](scheme.md)
