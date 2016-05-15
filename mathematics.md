@@ -384,3 +384,13 @@ $$\begin{align} A^k &= (PDP^{-1})^k = (PDP^{-1}) \cdot (PDP^{-1}) \cdots (PDP^{-
 - 行列式判定：如果矩阵的所有顺序主子式为正，则矩阵正定
 - 主元判定：如果所有主元为正，则矩阵正定
 - 如果对任意的非零向量x有 ，则矩阵A正定
+
+### 复数矩阵和快速傅里叶变换
+
+实矩阵和实变量里面的转置，到复数领域里要共轭。正交矩阵里复数领域里叫酉矩阵。
+
+傅里叶矩阵
+
+![](http://img.blog.csdn.net/20140730103257579?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveGRmeW9nYTE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+ 
