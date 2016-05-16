@@ -352,7 +352,6 @@ $$\begin{align} A^k &= (PDP^{-1})^k = (PDP^{-1}) \cdot (PDP^{-1}) \cdots (PDP^{-
 - 有λ=1是它的一个特征值，它对应的特征向量x1的所有元素是非负值；
 - 所有其他的特征值 |λi|<1；
 
-
 傅里叶级数
 
 投影问题引出傅里叶级数
@@ -393,4 +392,13 @@ $$\begin{align} A^k &= (PDP^{-1})^k = (PDP^{-1}) \cdot (PDP^{-1}) \cdots (PDP^{-
 
 ![](http://img.blog.csdn.net/20140730103257579?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveGRmeW9nYTE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
+### 正定矩阵和最小值
  
+对称矩阵是否是正定矩阵的判断方法
+ 
+- 特征值方法：λ1>0, λ2>0     
+- 行列式方法：a>0, ac-b2>0
+- 主元方法：第一个主元 a>0，第二个主元 (ac-b2)/a>0
+- 新方法：xTAx>0，x是任意向量，除x=(0 0)。x=(x,y)，f(x,y)=xTAx=ax2+2bxy+cy2
+
+半正定矩阵：不是正定矩阵，是对称的，是成为正定矩阵的临界点，奇异矩阵，有一个特征值为0，特征值大于等于0
