@@ -9,6 +9,7 @@
    * [Time and order](time_and_order.md)
    * [HBase](HBase.md)
    * [DB](db.md)
+       * Redis
 * [Mathematics](mathematics.md)
    * [Probability and Statistics](probability_and_statistics.md)
 * [Other](other.md)
