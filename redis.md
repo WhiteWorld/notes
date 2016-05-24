@@ -91,7 +91,7 @@ Redis的列表允许用户从序列的两端推入或者弹出元素、获取元
 |--|--|
 |SDIFF|	SDIFF key-name [key-name ...]——返回那些存在于第一个集合、但不存在于其他集合中的元素（数学上的差集运算）
 |SDIFFSTORE|	SDIFFSTORE dest-key key-name [key-name ...]——将那些存在于第一个集合、但并不存在于其他集合中的元素（数学上的差集运算）存储到dest-key中
-SINTER	SINTER key-name [key-name ...]——返回那些同时存在于所有集合中的元素（数学上的交集运算）
-SINTERSTORE	SINTERSTORE dest-key key-name [key-name ...]——将那些同时存在于所有集合的元素（数学上的交集运算）保存到键dest-key
-SUNION	SUNION key-name [key-name ...]——返回那些至少存在于一个集合中的元素（数学上的并集计算）
-SUNIONSTORE	SUNIONSTORE dest-key key-name [key-name ...]——将那些至少存在于一个集合中的元素（数学上的并集计算）存储到dest-key中
+|SINTER|	SINTER key-name [key-name ...]——返回那些同时存在于所有集合中的元素（数学上的交集运算）
+|SINTERSTORE|	SINTERSTORE dest-key key-name [key-name ...]——将那些同时存在于所有集合的元素（数学上的交集运算）保存到键dest-key
+|SUNION|	SUNION key-name [key-name ...]——返回那些至少存在于一个集合中的元素（数学上的并集计算）
+|SUNIONSTORE|	SUNIONSTORE dest-key key-name [key-name ...]——将那些至少存在于一个集合中的元素（数学上的并集计算）存储到dest-key中
