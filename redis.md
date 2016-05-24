@@ -95,3 +95,14 @@ Redis的列表允许用户从序列的两端推入或者弹出元素、获取元
 |SINTERSTORE|	SINTERSTORE dest-key key-name [key-name ...]——将那些同时存在于所有集合的元素（数学上的交集运算）保存到键dest-key
 |SUNION|	SUNION key-name [key-name ...]——返回那些至少存在于一个集合中的元素（数学上的并集计算）
 |SUNIONSTORE|	SUNIONSTORE dest-key key-name [key-name ...]——将那些至少存在于一个集合中的元素（数学上的并集计算）存储到dest-key中
+
+### 散列
+
+用于添加和删除键值对的散列操作
+
+|命令|	用例和描述
+|--|--|
+|HMGET|	HMGET key-name key [key ...]——从散列里面获取一个或多个键的值
+|HMSET|	HMSET key-name key value [key value ...]——为散列里面的一个或多个键设置值
+|HDEL|	HDEL key-name key [key ...]——删除散列里面的一个或多个键值对，返回成功找到并删除的键值对数量
+|HLEN|	HLEN key-name——返回散列包含的键值对数量
