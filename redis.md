@@ -183,3 +183,22 @@ Redis提供的发布与订阅命令
 Snapshotting
 
 AOF
+
+Replication
+
+
+What happens when a slave connects to a master
+
+|Step|Master operations|Slave operations
+|--|--|--|
+|1|(waiting for a command)|(Re-)connects to the master;issues the SYNC command 
+|2|Starts BGSAVE operation; keeps a backlog of all write commands sent after BGSAVE|Serves old data (if any), or returns errors to commands (depending on configuration)
+|3|Finishes BGSAVE; starts sending the snapshot to the slave; continues holding a backlog of write commands|Discards all old data (if any); starts load- ing the dump as it’s received
+|4|Finishes sending the snapshot to the slave; starts sending the write command backlog to the slave|Finishes parsing the dump; starts responding to commands normally again
+|5|Finishes sending the backlog; starts live stream- ing of write commands as they happe|Finishes executing backlog of write com- mands from the master; continues execut- ing commands as they happen
+
+
+
+
+
+
