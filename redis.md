@@ -177,3 +177,9 @@ Redis提供的发布与订阅命令
 |PTTL|	PTTL key-name——返回给定键距离过期时间还有多少毫秒，这个命令在Redis 2.6或以上版本可用
 |PEXPIRE|	PEXPIRE key-name milliseconds——让键key-name在milliseconds毫秒之后过期，这个命令在Redis 2.6或以上版本可用
 |PEXPIREAT|	PEXPIREAT key-name timestamp-milliseconds——将一个毫秒级精度的UNIX时间戳设置为给定键的过期时间，这个命令在Redis 2.6或以上版本可用
+
+### 持久化
+
+Snapshotting
+
+AOF
