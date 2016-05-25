@@ -1,4 +1,6 @@
 {
+    "title": "My Book",
+    "author": "Author",
     "plugins": ["autocover"],
     "pluginsConfig": {
         "autocover": {
