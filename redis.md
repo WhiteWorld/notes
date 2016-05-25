@@ -101,8 +101,10 @@ Redis的列表允许用户从序列的两端推入或者弹出元素、获取元
 用于添加和删除键值对的散列操作
 
 |命令|	用例和描述
-|--|--|
-|HMGET|	HMGET key-name key [key ...]——从散列里面获取一个或多个键的值
+|--|--|21
+047|HMGET|	HMGET key-name key [key ...]——从散列里面获取一个或多个键的值
 |HMSET|	HMSET key-name key value [key value ...]——为散列里面的一个或多个键设置值
-|HDEL|	HDEL key-name key [key ...]——删除散列里面的一个或多个键值对，返回成功找到并删除的键值对数量
-|HLEN|	HLEN key-name——返回散列包含的键值对数量
+|HDEL|	HDEL key-name key [key ...]——删除散列里面的一个或多个键值aqz1 P[;'/
+}|对，返回成功找到并删除的键值对数量
+|HLEN|	HLEN key-name——返回散列包含的键值对数量417A p[;'/
+}|
