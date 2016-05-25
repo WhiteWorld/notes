@@ -117,3 +117,18 @@ Redis的列表允许用户从序列的两端推入或者弹出元素、获取元
 |HGETALL|	HGETALL key-name——获取散列包含的所有键值对
 |HINCRBY|	HINCRBY key-name key increment——将键key保存的值加上整数increment
 |HINCRBYFLOAT|	HINCRBYFLOAT key-name key increment——将键key保存的值加上浮点数increment
+
+### 有序集合
+
+一些常用的有序集合命令
+
+|命令|	用例和描述
+|--|--|
+|ZADD|	ZADD key-name score member [score member ...]——将带有给定分值的成员添加到有序集合里面
+|ZREM|	ZREM key-name member [member ...]——从有序集合里面移除给定的成员，并返回被移除成员的数量
+|ZCARD|	ZCARD key-name——返回有序集合包含的成员数量
+|ZINCRBY|	ZINCRBY key-name increment member——将member成员的分值加上increment
+|ZCOUNT|	ZCOUNT key-name min max——返回分值介于min和max之间的成员数量
+|ZRANK|	ZRANK key-name member——返回成员member在key-name中的排名
+|ZSCORE|	ZSCORE key-name member——返回成员member的分值
+|ZRANGE|	ZRANGE key-name start stop [WITHSCORES]——返回有序集合中排名介于start和stop之间的成员，如果给定了可选的WITHSCORES选项，那么命令会将成员的分值也一并返回
