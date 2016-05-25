@@ -148,4 +148,13 @@ Redis的列表允许用户从序列的两端推入或者弹出元素、获取元
 
 ### 发布和订阅
 
+Redis提供的发布与订阅命令
+
+|命令|	用例和描述
+|--|--|
+|SUBSCRIBE|	SUBSCRIBE channel [channel ...]——订阅给定的一个或多个频道
+|UNSUBSCRIBE|	UNSUBSCRIBE [channel [channel ...]]——退订给定的一个或多个频道，如果执行时没有给定任何频道，那么退订所有频道
+|PUBLISH|	PUBLISH channel message——向给定频道发送消息
+|PSUBSCRIBE|	PSUBSCRIBE pattern [pattern ...]——订阅与给定模式相匹配的所有频道
+|PUNSUBSCRIBE|	PUNSUBSCRIBE [pattern [pattern ...]]——退订给定的模式，如果执行时没有给定任何模式，那么退订所有模式
 
