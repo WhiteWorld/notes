@@ -197,6 +197,12 @@ What happens when a slave connects to a master
 |4|Finishes sending the snapshot to the slave; starts sending the write command backlog to the slave|Finishes parsing the dump; starts responding to commands normally again
 |5|Finishes sending the backlog; starts live stream- ing of write commands as they happe|Finishes executing backlog of write com- mands from the master; continues execut- ing commands as they happen
 
+### Transactions
+
+WATCH MULTI EXEC DISCARD
+
+
+
 
 
 
