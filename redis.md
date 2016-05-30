@@ -232,3 +232,10 @@ API
 
 ### 链表
 
+![](http://image.webreader.duokan.com/mfsv2/download/s010/p01RJP5dpzIa/6mOyLELYEQyZ4L.jpg?thumb=1024x&scale=auto)
+双端 无环 带表头指针和表尾指针 带链表长度计数器 多态
+
+### 字典
+
+![](http://image.webreader.duokan.com/mfsv2/download/s010/p01AMW8EM5GU/c2DhIJrE6xc9fo.jpg?thumb=1024x&scale=auto)
+
