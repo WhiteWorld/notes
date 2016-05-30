@@ -242,5 +242,7 @@ API
 渐进式rehash，把操作均摊在每个操作上
 
 ### 跳跃表
+![](http://image.webreader.duokan.com/mfsv2/download/s010/p01sK2Lei0nP/J0nSWjKdeVKegx.jpg?thumb=1024x&scale=auto)
 
 使用在有序集合、集群节点内部
+
