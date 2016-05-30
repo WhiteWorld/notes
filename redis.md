@@ -239,3 +239,7 @@ API
 
 ![](http://image.webreader.duokan.com/mfsv2/download/s010/p01AMW8EM5GU/c2DhIJrE6xc9fo.jpg?thumb=1024x&scale=auto)
 
+渐进式rehash，把操作均摊在每个操作上
+
+### 跳跃表
+
