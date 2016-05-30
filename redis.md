@@ -9,6 +9,8 @@ Redis in Action: https://redislabs.com/ebook/redis-in-action/part-1-getting-star
 Redis 实战： http://redisinaction.com/preview
 
 
+## 常用命令
+
 ### 字符串
 
 字符串可以保存： 字节串 (byte string)   整数  浮点数
@@ -167,7 +169,7 @@ Redis提供的发布与订阅命令
 键的过期时间
 
 用于处理过期时间的Redis命令
-
+![](http://image.webreader.duokan.com/mfsv2/download/s010/p01xfjITuKmc/KJ70C96G8kFB40.jpg)
 |命令|	示例和描述
 |--|--|
 |PERSIST|	PERSIST key-name——移除键的过期时间
@@ -203,8 +205,30 @@ WATCH MULTI EXEC DISCARD
 
 
 
+## 设计实现
+
+### 简单动态字符串 Simple dynamic string SDS
+
+保存字符串值、缓冲区
+
+SDS与C字符串区别
+
+- 常数复杂度获取字符串长度
+- 杜绝缓冲区溢出
+- 减少修改字符串时带来的内存重分配次数
+  - 空间预分配（len < 1M, free = len; len >= 1M. free = 1M）
+  - 惰性空间释放
+- 二进制安全，字符串里可以包含空格
+- 兼容部分C字符串函数
+
+![](http://image.webreader.duokan.com/mfsv2/download/s010/p010v4xnWs6S/JouBfRJ4WFHuCl.jpg)
 
 
+API
 
+![](http://image.webreader.duokan.com/mfsv2/download/s010/p01xfjITuKmc/KJ70C96G8kFB40.jpg)
 
+![](http://image.webreader.duokan.com/mfsv2/download/s010/p01oDab2gaYj/NyztOLV0Whk1lO.jpg)
+
+### 链表
 
