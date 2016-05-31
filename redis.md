@@ -249,3 +249,14 @@ API
 ### 压缩列表
 压缩列表（ziplist）是列表键和哈希键的底层实现之一。当一个列表键只包含少量列表项，并且每个列表项要么就是小整数值，要么就是长度比较短的字符串，那么Redis就会使用压缩列表来做列表键的底层实现。
 
+
+## 对象
+
+类型
+![](http://image.webreader.duokan.com/mfsv2/download/s010/p01jk0Zblx3w/6yampDNkeLsTHy.jpg?thumb=384x&scale=auto)
+
+
+编码
+![](http://image.webreader.duokan.com/mfsv2/download/s010/p01pv7Oui17z/3nytuucyoPkUvq.jpg?thumb=1024x&scale=auto)
+
+
