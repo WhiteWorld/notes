@@ -16,6 +16,7 @@
 - [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 
 计划
+
 语音：Python
 读网络资源： http://machinelearningmastery.com/。
 学习书：机器学习实战，统计学习方法，概率论
