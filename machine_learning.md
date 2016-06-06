@@ -18,7 +18,7 @@
 
 计划
 
-语言：Python
+语言：Python， 软件：weka，scikit-learn
 读网络资源： http://machinelearningmastery.com/。
 学习书：机器学习实战，统计学习方法，概率论
 学习公开课：Coursera机器学习课程 和 http://cs109.github.io/2015/
