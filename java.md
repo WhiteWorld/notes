@@ -94,3 +94,5 @@ final类中不允许被继承
 
 
 
+
+[设计模式资料](http://www.jasongj.com/design_pattern/summary/)
