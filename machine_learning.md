@@ -67,3 +67,8 @@ Logistic 回归
 缺点：容易欠拟合，分类精度可能不高
 
 推到过程：[基于Logistic回归的二元分类应用（含公式推导）](http://www.jianshu.com/p/9ffab4c4f76d)
+
+
+SVM 支持向量机
+
+
