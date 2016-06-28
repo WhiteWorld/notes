@@ -78,3 +78,5 @@ SVM 支持向量机
 最大间隔
 
 Adaboost
+
+[ 数据挖掘算法学习（八）Adaboost算法](http://blog.csdn.net/iemyxie/article/details/40423907)
