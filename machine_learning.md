@@ -20,7 +20,7 @@
 
 语言：Python， 软件：weka，scikit-learn
 读网络资源： http://machinelearningmastery.com/。
-学习书：机器学习实战，统计学习方法，概率论
+学习书：机器学习实战，统计学习方法，概率论，机器学习
 学习公开课：Coursera机器学习课程 和 http://cs109.github.io/2015/
 
 
@@ -73,3 +73,8 @@ SVM 支持向量机
 
 [支持向量机系列](http://blog.pluskid.org/?page_id=683)
 [支持向量机SVM](http://www.cnblogs.com/jerrylead/archive/2011/03/13/1982639.html)
+
+线性分类器->转化为对偶问题并优化求解->
+最大间隔
+
+Adaboost
