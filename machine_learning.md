@@ -47,6 +47,8 @@ k-近邻算法 kNN
 - 优点：简单高效
 - 缺点：保存全部数据集，计算需要存储空间大，耗时
 
+为了提高K近邻搜索的效率，可以考虑kd树的方法。
+
 
 决策树
 
@@ -80,5 +82,3 @@ SVM 支持向量机
 Adaboost
 
 [ 数据挖掘算法学习（八）Adaboost算法](http://blog.csdn.net/iemyxie/article/details/40423907)
-
- 
