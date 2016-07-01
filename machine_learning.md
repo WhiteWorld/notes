@@ -23,6 +23,10 @@
 学习书：机器学习实战，统计学习方法，概率论，机器学习
 学习公开课：Coursera机器学习课程 和 http://cs109.github.io/2015/
 
+Deep Learning
+
+[UFLDL Tutorial](http://deeplearning.stanford.edu/tutorial/)
+[Google DL 课程](https://www.udacity.com/course/deep-learning--ud730)
 
 
 
