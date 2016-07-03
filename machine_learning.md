@@ -27,6 +27,7 @@ Deep Learning
 
 [UFLDL Tutorial](http://deeplearning.stanford.edu/tutorial/)
 [Google DL 课程](https://www.udacity.com/course/deep-learning--ud730)
+[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
 
 
