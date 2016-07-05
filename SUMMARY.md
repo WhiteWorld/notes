@@ -21,6 +21,7 @@
    * [Flink](flink.md)
    * [Job](job.md)
    * [Machine Learning](machine_learning.md)
+       * Book Notes
 * [Compiler](compiler.md)
 * [Draft](draft.md)
    * [Ad](ad.md)
