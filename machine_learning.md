@@ -16,14 +16,14 @@
 - [MachineLearning](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf)
 - [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 
-计划
+### 计划
 
 语言：Python， 软件：weka，scikit-learn
 读网络资源： http://machinelearningmastery.com/, [机器学习精简入门教程](http://www.shareditor.com/bloglistbytag/?tagname=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%B2%BE%E7%AE%80%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B)。
 学习书：机器学习实战，统计学习方法，概率论，机器学习
 学习公开课：Coursera机器学习课程 和 http://cs109.github.io/2015/
 
-Deep Learning
+### Deep Learning
 
 [UFLDL Tutorial](http://deeplearning.stanford.edu/tutorial/)
 [Google DL 课程](https://www.udacity.com/course/deep-learning--ud730)
