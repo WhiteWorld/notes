@@ -35,5 +35,8 @@
 [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/)
 
 
+### 统计学习
 
+[The Elements of Statistical Learning:Data Mining, Inference, and Prediction](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+[Statistics 315a](http://statweb.stanford.edu/~tibs/stat315a.html)
 
