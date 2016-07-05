@@ -34,6 +34,9 @@ Deep Learning
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/)
 
+
+
+
 机器学习实战
 
 监督学习: 机器从数据中获取目标变量。目标变量分为两种：离散变量（分类），连续变量（回归）
