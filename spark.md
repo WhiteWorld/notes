@@ -4,6 +4,9 @@
 
 [Mastering Apache Spark](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
 
+## 公开课
+[BerkeleyX: CS105x Introduction to Apache Spark](https://courses.edx.org/courses/course-v1:BerkeleyX+CS105x+1T2016/info)
+
 ## RDD 实现
 
 只读、分区记录的集合
