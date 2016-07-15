@@ -1,4 +1,4 @@
-- # Machine Learning
+-- \# Machine Learning
 
 ## Links
 
@@ -25,20 +25,23 @@
 
 ### Deep Learning
 
-- [UFLDL Tutorial](http://deeplearning.stanford.edu/tutorial/)
-- [Google DL 课程](https://www.udacity.com/course/deep-learning--ud730)
-- [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-- [https:\/\/www.coursera.org\/learn\/neural-networks](https://www.coursera.org/learn/neural-networks)
-- [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
-- [https:\/\/www.cs.ox.ac.uk\/people\/nando.defreitas\/machinelearning\/](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
-- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
-- [http:\/\/www.deeplearningbook.org\/](http://www.deeplearningbook.org/)
-- [DeepLearningBook 及 Papers](https://github.com/HFTrader/DeepLearningBook)
+* [UFLDL Tutorial](http://deeplearning.stanford.edu/tutorial/)
+* [Google DL 课程](https://www.udacity.com/course/deep-learning--ud730)
+* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+* [https:\/\/www.coursera.org\/learn\/neural-networks](https://www.coursera.org/learn/neural-networks)
+* [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+* [https:\/\/www.cs.ox.ac.uk\/people\/nando.defreitas\/machinelearning\/](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [http:\/\/www.deeplearningbook.org\/](http://www.deeplearningbook.org/)
+* [DeepLearningBook 及 Papers](https://github.com/HFTrader/DeepLearningBook)
+* \[Hacker's guide to Neural Networks\]\(http:\/\/karpathy.github.io\/neuralnets\/\)
 
 ### 统计学习
 
-[The Elements of Statistical Learning:Data Mining, Inference, and Prediction](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
-[Statistics 315a](http://statweb.stanford.edu/~tibs/stat315a.html)
+* [The Elements of Statistical Learning:Data Mining, Inference, and Prediction](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+
+* [Statistics 315a](http://statweb.stanford.edu/~tibs/stat315a.html)
+
 
 ### 强化学习
 
