@@ -25,15 +25,15 @@
 
 ### Deep Learning
 
-[UFLDL Tutorial](http://deeplearning.stanford.edu/tutorial/)
-[Google DL 课程](https://www.udacity.com/course/deep-learning--ud730)
-[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-[https:\/\/www.coursera.org\/learn\/neural-networks](https://www.coursera.org/learn/neural-networks)
-[Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
-[https:\/\/www.cs.ox.ac.uk\/people\/nando.defreitas\/machinelearning\/](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
-[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
-[http:\/\/www.deeplearningbook.org\/](http://www.deeplearningbook.org/)
-[DeepLearningBook 及 Papers](https://github.com/HFTrader/DeepLearningBook)
+- [UFLDL Tutorial](http://deeplearning.stanford.edu/tutorial/)
+- [Google DL 课程](https://www.udacity.com/course/deep-learning--ud730)
+- [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+- [https:\/\/www.coursera.org\/learn\/neural-networks](https://www.coursera.org/learn/neural-networks)
+- [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+- [https:\/\/www.cs.ox.ac.uk\/people\/nando.defreitas\/machinelearning\/](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+- [http:\/\/www.deeplearningbook.org\/](http://www.deeplearningbook.org/)
+- [DeepLearningBook 及 Papers](https://github.com/HFTrader/DeepLearningBook)
 
 ### 统计学习
 
@@ -42,15 +42,9 @@
 
 ### 强化学习
 
-
-
-
-
-
+[知乎问题含资料链接](https://www.zhihu.com/question/41775291)
 
 Q-learning
 
 ![](https://pic2.zhimg.com/1ffd8c2a1d18022d6e6a629c417bf6f5_b.png)
-
-
 
