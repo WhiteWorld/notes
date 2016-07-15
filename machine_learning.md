@@ -46,3 +46,11 @@
 
 
 
+
+
+Q-learning
+
+![](https://pic2.zhimg.com/1ffd8c2a1d18022d6e6a629c417bf6f5_b.png)
+
+
+
