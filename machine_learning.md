@@ -34,7 +34,7 @@
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [http:\/\/www.deeplearningbook.org\/](http://www.deeplearningbook.org/)
 * [DeepLearningBook 及 Papers](https://github.com/HFTrader/DeepLearningBook)
-* \[Hacker's guide to Neural Networks\]\(http:\/\/karpathy.github.io\/neuralnets\/\)
+* [http:\/\/karpathy.github.io\/neuralnets\/](http://karpathy.github.io/neuralnets/ "Hacker's guide to Neural Networks")
 
 ### 统计学习
 
