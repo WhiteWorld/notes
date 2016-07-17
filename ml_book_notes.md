@@ -1,6 +1,6 @@
 # Reading Notes
 
-
+交叉熵代价函数
 
 
 
