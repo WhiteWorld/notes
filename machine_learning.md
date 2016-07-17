@@ -36,7 +36,8 @@
 * [DeepLearningBook 及 Papers](https://github.com/HFTrader/DeepLearningBook)
 * [http:\/\/karpathy.github.io\/neuralnets\/](http://karpathy.github.io/neuralnets/ "Hacker's guide to Neural Networks")
 * [ Neural Networks and Deep Learning ](http://neuralnetworksanddeeplearning.com/index.html)
-* [神经网络博客](http://colah.github.io/)
+* [神经网络博客 colah.github.io ](http://colah.github.io/)
+* [神经网络博客 http://www.wildml.com/](http://www.wildml.com/)
 
 ### 统计学习
 
