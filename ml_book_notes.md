@@ -1,10 +1,4 @@
-# Book Notes
-
-
-
-
-
-
+# Reading Notes
 
 ## 机器学习实战
 
