@@ -1,5 +1,11 @@
 # Book Notes
 
+
+
+
+
+
+
 ## 机器学习实战
 
 监督学习: 机器从数据中获取目标变量。目标变量分为两种：离散变量（分类），连续变量（回归）
@@ -45,8 +51,6 @@ Logistic 回归
 推到过程：[基于Logistic回归的二元分类应用（含公式推导）](http://www.jianshu.com/p/9ffab4c4f76d)
 
 Softmax 算法：多分类算法，Logistic 回归的一般化
-
-
 
 SVM 支持向量机
 
