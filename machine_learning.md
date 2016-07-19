@@ -1,4 +1,4 @@
--- \# Machine Learning
+\# Machine Learning
 
 ## Links
 
@@ -23,6 +23,8 @@
 学习书：机器学习实战，统计学习方法，概率论，机器学习（西瓜书），PRML，
 学习公开课：Coursera 机器学习课程 和 [http:\/\/cs109.github.io\/2015\/](http://cs109.github.io/2015/)
 
+### 计划 2
+
 ### Deep Learning
 
 * [UFLDL Tutorial](http://deeplearning.stanford.edu/tutorial/)
@@ -37,7 +39,7 @@
 * [http:\/\/karpathy.github.io\/neuralnets\/](http://karpathy.github.io/neuralnets/ "Hacker's guide to Neural Networks")
 * [ Neural Networks and Deep Learning ](http://neuralnetworksanddeeplearning.com/index.html)
 * [神经网络博客 colah.github.io ](http://colah.github.io/)
-* [神经网络博客 http://www.wildml.com/](http://www.wildml.com/)
+* [神经网络博客 http:\/\/www.wildml.com\/](http://www.wildml.com/)
 
 ### 统计学习
 
