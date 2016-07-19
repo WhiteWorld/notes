@@ -1,4 +1,4 @@
--- \# Machine Learning
+# Machine Learning
 
 ## Links
 
@@ -18,14 +18,15 @@
 
 ### 计划 1
 
-语言：Python， 软件：weka，scikit-learn
+语言：Python， 软件：weka，scikit-learn，tensorflow
 网络资源： [http:\/\/machinelearningmastery.com\/](http://machinelearningmastery.com/), 机器学习精简入门教程， 线性代数MIT公开课，微积分MIT公开课
 学习书：机器学习实战，统计学习方法，概率论，机器学习（西瓜书），PRML，
-学习公开课：Coursera 机器学习课程 和 [http:\/\/cs109.github.io\/2015\/](http://cs109.github.io/2015/)
+学习公开课：[UFLDL Tutorial ](http://deeplearning.stanford.edu/tutorial/)Coursera 机器学习课程 https:\/\/www.coursera.org\/learn\/machine-learning  和 [http:\/\/cs109.github.io\/2015\/   ](http://cs109.github.io/2015/ "CS109")http:\/\/cs229.stanford.edu\/
+
+### 计划 2
 
 ### Deep Learning
 
-* [UFLDL Tutorial](http://deeplearning.stanford.edu/tutorial/)
 * [Google DL 课程](https://www.udacity.com/course/deep-learning--ud730)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 * [https:\/\/www.coursera.org\/learn\/neural-networks](https://www.coursera.org/learn/neural-networks)
@@ -37,7 +38,7 @@
 * [http:\/\/karpathy.github.io\/neuralnets\/](http://karpathy.github.io/neuralnets/ "Hacker's guide to Neural Networks")
 * [ Neural Networks and Deep Learning ](http://neuralnetworksanddeeplearning.com/index.html)
 * [神经网络博客 colah.github.io ](http://colah.github.io/)
-* [神经网络博客 http://www.wildml.com/](http://www.wildml.com/)
+* [神经网络博客 http:\/\/www.wildml.com\/](http://www.wildml.com/)
 
 ### 统计学习
 
