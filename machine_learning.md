@@ -25,6 +25,16 @@
 
 ### 计划 2
 
+书：
+
+[http:\/\/www.deeplearningbook.org\/ ](http://www.deeplearningbook.org/)
+
+公开课：
+
+[Google DL 课程  ](https://www.udacity.com/course/deep-learning--ud730)
+
+
+
 ### Deep Learning
 
 * [Google DL 课程](https://www.udacity.com/course/deep-learning--ud730)
