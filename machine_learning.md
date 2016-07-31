@@ -33,8 +33,6 @@
 
 [Google DL 课程  ](https://www.udacity.com/course/deep-learning--ud730)
 
-
-
 ### Deep Learning
 
 * [Google DL 课程](https://www.udacity.com/course/deep-learning--ud730)
@@ -49,6 +47,7 @@
 * [ Neural Networks and Deep Learning ](http://neuralnetworksanddeeplearning.com/index.html)
 * [神经网络博客 colah.github.io ](http://colah.github.io/)
 * [神经网络博客 http:\/\/www.wildml.com\/](http://www.wildml.com/)
+* 北大 李戈 深度学习课件
 
 ### 统计学习
 
