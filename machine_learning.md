@@ -33,6 +33,10 @@
 
 [Google DL 课程  ](https://www.udacity.com/course/deep-learning--ud730)
 
+[https:\/\/github.com\/ahangchen\/GDLnotes](https://github.com/ahangchen/GDLnotes)
+
+
+
 ### Deep Learning
 
 * [Google DL 课程](https://www.udacity.com/course/deep-learning--ud730)
