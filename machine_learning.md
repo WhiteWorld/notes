@@ -35,8 +35,6 @@
 
 [https:\/\/github.com\/ahangchen\/GDLnotes](https://github.com/ahangchen/GDLnotes)
 
-
-
 ### Deep Learning
 
 * [Google DL 课程](https://www.udacity.com/course/deep-learning--ud730)
@@ -52,6 +50,10 @@
 * [神经网络博客 colah.github.io ](http://colah.github.io/)
 * [神经网络博客 http:\/\/www.wildml.com\/](http://www.wildml.com/)
 * 北大 李戈 深度学习课件
+* http:\/\/suanfazu.com\/t\/lecun-bengio-hinton\/9478
+
+* http:\/\/suanfazu.com\/t\/deep-learning\/9401
+
 
 ### 统计学习
 
