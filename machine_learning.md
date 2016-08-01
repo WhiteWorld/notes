@@ -39,6 +39,7 @@
 
 * [Google DL 课程](https://www.udacity.com/course/deep-learning--ud730)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+* [**CS224d: Deep Learning for Natural Language Processing**](http://cs224d.stanford.edu/)
 * [https:\/\/www.coursera.org\/learn\/neural-networks](https://www.coursera.org/learn/neural-networks)
 * [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 * [https:\/\/www.cs.ox.ac.uk\/people\/nando.defreitas\/machinelearning\/](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
