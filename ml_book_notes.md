@@ -47,9 +47,9 @@ Notes2:
   * 拉普拉斯滤波，防止出现没有在训练数据中出现的特征，分子和分母加入参数
 
 
-### Deep Learning
+### Deep Learning Book
 
-
+Deep feedforward networks \(MLPs\)
 
 ### 机器学习实战
 
