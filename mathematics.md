@@ -6,11 +6,11 @@
 
 [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
-
-
 ## 微积分重点
 
 参考：[http:\/\/open.163.com\/special\/opencourse\/weijifen.html](http://open.163.com/special/opencourse/weijifen.html)
+
+\[麻省理工学院公开课：单变量微积分\]\(http:\/\/open.163.com\/special\/sp\/singlevariablecalculus.html\)
 
 ## Linear Algebra
 
