@@ -43,11 +43,10 @@ Coursera 机器学习课程 https:\/\/www.coursera.org\/learn\/machine-learning
 
 * [Google DL 课程](https://www.udacity.com/course/deep-learning--ud730)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-* **[CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)**
+* [**CS224d: Deep Learning for Natural Language Processing**](http://cs224d.stanford.edu/)
 * [https:\/\/www.coursera.org\/learn\/neural-networks](https://www.coursera.org/learn/neural-networks)
 * [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 * [https:\/\/www.cs.ox.ac.uk\/people\/nando.defreitas\/machinelearning\/](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
-* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [http:\/\/www.deeplearningbook.org\/](http://www.deeplearningbook.org/)
 * [DeepLearningBook 及 Papers](https://github.com/HFTrader/DeepLearningBook)
 * [http:\/\/karpathy.github.io\/neuralnets\/](http://karpathy.github.io/neuralnets/ "Hacker's guide to Neural Networks")
@@ -64,9 +63,9 @@ Coursera 机器学习课程 https:\/\/www.coursera.org\/learn\/machine-learning
 
 ## **Papers**
 
-* Netzer, Y., et al. [**Reading Digits in Natural Images with Unsupervised Feature Learning**](http://ufldl.stanford.edu/housenumbers/nips2011_housenumbers.pdf)._NIPS Workshop on Deep Learning and Unsupervised Feature Learning_, 2011.
+* Netzer, Y., et al. **[Reading Digits in Natural Images with Unsupervised Feature Learning](http://ufldl.stanford.edu/housenumbers/nips2011_housenumbers.pdf)**._NIPS Workshop on Deep Learning and Unsupervised Feature Learning_, 2011.
 
-* Goodfellow, I., et al. [**Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks**](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42241.pdf). _ICLR_, 2014. \[[**video**](https://www.youtube.com/watch?v=vGPI_JvLoN0)\]
+* Goodfellow, I., et al. **[Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42241.pdf)**. _ICLR_, 2014. \[**[video](https://www.youtube.com/watch?v=vGPI_JvLoN0)**\]
 
 
 ### 统计学习
