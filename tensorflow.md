@@ -20,3 +20,9 @@ Tensor 是一个typed，多维数组。
 
 客户端程序通过Session和系统交互。
 
+
+
+
+
+安装 pyenv，安装 anaconda
+
