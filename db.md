@@ -7,11 +7,17 @@
 [Large-scale Incremental Processing Using Distributed Transactions and Notifications](http://research.google.com/pubs/pub36726.html)
 [F1 - The Fault-Tolerant Distributed RDBMS Supporting Google's Ad Business](http://research.google.com/pubs/pub38125.html)
 
-
 ### 临时资料
+
 Google Percolator
-http://blog.octo.com/en/my-reading-of-percolator-architecture-a-google-search-engine-component/
-http://www.slideshare.net/mikejf12/an-introduction-to-google-percolator
+[http:\/\/blog.octo.com\/en\/my-reading-of-percolator-architecture-a-google-search-engine-component\/](http://blog.octo.com/en/my-reading-of-percolator-architecture-a-google-search-engine-component/)
+[http:\/\/www.slideshare.net\/mikejf12\/an-introduction-to-google-percolator](http://www.slideshare.net/mikejf12/an-introduction-to-google-percolator)
+
+### 公开课
+
+http:\/\/www.cs186berkeley.net\/
+
+
 
 ### LevelDB
 
@@ -19,21 +25,21 @@ LevelDB is a fast key-value storage library written at Google that provides an o
 
 Features
 
-- Keys and values are arbitrary byte arrays.
-- Data is stored sorted by key.
-- Callers can provide a custom comparison function to override the sort order.
-- The basic operations are Put(key,value), Get(key), Delete(key).
-- Multiple changes can be made in one atomic batch.
-- Users can create a transient snapshot to get a consistent view of data.
-- Forward and backward iteration is supported over the data.
-- Data is automatically compressed using the Snappy compression library.
-- External activity (file system operations etc.) is relayed through a virtual interface so users can customize the operating system interactions.
+* Keys and values are arbitrary byte arrays.
+* Data is stored sorted by key.
+* Callers can provide a custom comparison function to override the sort order.
+* The basic operations are Put\(key,value\), Get\(key\), Delete\(key\).
+* Multiple changes can be made in one atomic batch.
+* Users can create a transient snapshot to get a consistent view of data.
+* Forward and backward iteration is supported over the data.
+* Data is automatically compressed using the Snappy compression library.
+* External activity \(file system operations etc.\) is relayed through a virtual interface so users can customize the operating system interactions.
 
 Limitations
 
-- This is not a SQL database. It does not have a relational data model, it does not support SQL queries, and it has no support for indexes.
-- Only a single process (possibly multi-threaded) can access a particular database at a time.
-- There is no client-server support builtin to the library. An application that needs such support will have to wrap their own server around the library.
+* This is not a SQL database. It does not have a relational data model, it does not support SQL queries, and it has no support for indexes.
+* Only a single process \(possibly multi-threaded\) can access a particular database at a time.
+* There is no client-server support builtin to the library. An application that needs such support will have to wrap their own server around the library.
 
 整体架构
 
@@ -50,15 +56,13 @@ Compaction
 
 ![SSTable Compaction](http://pic002.cnblogs.com/images/2011/274814/2011121116385923.png)
 
-
-
 相关技术
 
-- SkipList
+* SkipList
 
-http://www.cnblogs.com/xuqiang/archive/2011/05/22/2053516.html
+[http:\/\/www.cnblogs.com\/xuqiang\/archive\/2011\/05\/22\/2053516.html](http://www.cnblogs.com/xuqiang/archive/2011/05/22/2053516.html)
 
-- LSM-Tree
+* LSM-Tree
 
 ### CockroachDB
 
@@ -67,3 +71,4 @@ http://www.cnblogs.com/xuqiang/archive/2011/05/22/2053516.html
 ### RocksDB
 
 ### HBase
+
