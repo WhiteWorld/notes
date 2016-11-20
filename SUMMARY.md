@@ -23,8 +23,10 @@
     * [Machine Learning](machine_learning.md)
         * [Reading Notes](ml_book_notes.md)
         * [TensorFlow](tensorflow.md)
+    * [OS](os.md)
 * [Compiler](compiler.md)
 * [Draft](draft.md)
     * [Ad](ad.md)
+    * [Recommender systems](recommender-systems.md)
 * [Context](context.md)
 
