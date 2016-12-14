@@ -18,9 +18,9 @@
 
 ### 计划 1
 
-语言：Python， 软件：weka，scikit-learn，tensorflow
-网络资源： [http:\/\/machinelearningmastery.com\/](http://machinelearningmastery.com/), 机器学习精简入门教程， 线性代数MIT公开课，微积分MIT公开课
-学习书：机器学习实战，统计学习方法，概率论，机器学习（西瓜书），PRML，
+语言：Python， 软件：weka，scikit-learn，tensorflow  
+网络资源： [http:\/\/machinelearningmastery.com\/](http://machinelearningmastery.com/), 机器学习精简入门教程， 线性代数MIT公开课，微积分MIT公开课  
+学习书：机器学习实战，统计学习方法，概率论，机器学习（西瓜书），PRML，  
 学习公开课：[UFLDL Tutorial ](http://deeplearning.stanford.edu/tutorial/)  和 [http:\/\/cs109.github.io\/2015\/   ](http://cs109.github.io/2015/ "CS109")
 
 ### 计划 2
@@ -28,6 +28,8 @@
 书：
 
 [http:\/\/www.deeplearningbook.org\/  \(难。\)](http://www.deeplearningbook.org/)
+
+https://github.com/exacity/deeplearningbook-chinese
 
 Coursera 机器学习课程 https:\/\/www.coursera.org\/learn\/machine-learning
 
@@ -49,8 +51,6 @@ CMU 机器学习 http:\/\/www.cs.cmu.edu\/~mgormley\/courses\/10701-f16\/index.h
 
 CMU 统计机器学习 http:\/\/www.stat.cmu.edu\/~larry\/=sml\/
 
-
-
 ### 计划 3
 
 * http:\/\/cs229.stanford.edu\/ （ing）
@@ -58,6 +58,7 @@ CMU 统计机器学习 http:\/\/www.stat.cmu.edu\/~larry\/=sml\/
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
 * [机器学习技法机器学习基石](http://www.csie.ntu.edu.tw/~htlin/mooc/)
+
 
 ### Deep Learning
 
@@ -84,9 +85,9 @@ CMU 统计机器学习 http:\/\/www.stat.cmu.edu\/~larry\/=sml\/
 
 ## **Papers**
 
-* Netzer, Y., et al. **[Reading Digits in Natural Images with Unsupervised Feature Learning](http://ufldl.stanford.edu/housenumbers/nips2011_housenumbers.pdf)**._NIPS Workshop on Deep Learning and Unsupervised Feature Learning_, 2011.
+* Netzer, Y., et al. [**Reading Digits in Natural Images with Unsupervised Feature Learning**](http://ufldl.stanford.edu/housenumbers/nips2011_housenumbers.pdf)._NIPS Workshop on Deep Learning and Unsupervised Feature Learning_, 2011.
 
-* Goodfellow, I., et al. **[Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42241.pdf)**. _ICLR_, 2014. \[**[video](https://www.youtube.com/watch?v=vGPI_JvLoN0)**\]
+* Goodfellow, I., et al. [**Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks**](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42241.pdf). _ICLR_, 2014. \[[**video**](https://www.youtube.com/watch?v=vGPI_JvLoN0)\]
 
 
 ### 统计学习
