@@ -1,5 +1,7 @@
 白皮书
 
+https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
+
 ### 介绍
 
 第一代 DistBelief
