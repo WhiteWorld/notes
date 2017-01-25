@@ -2,11 +2,6 @@
 
 [https://www.ops-class.org/](https://www.ops-class.org/)
 
-
-
-
-
-
 * Threadssave processor state.
 * Address spacesmap the addresses used by processes \(virtual addresses\) to real memory addresses \(physical addresses\).
 * Files map offsets into a file to blocks on disk.
@@ -15,4 +10,8 @@
 * Processes organize these other operating system abstractions.
 
 
+
+
+
+To be continue 内存管理
 
