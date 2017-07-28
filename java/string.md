@@ -4,6 +4,8 @@ String
 
 内部是 final char value[] 保证 immutable
 
+trim() 中 char[] val = value;    /* avoid getfield opcode */
+
 equals
 
 ```Java
