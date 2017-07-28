@@ -1,6 +1,10 @@
 String
 
+实现 Serializable Comparable<String> CharSequence
+
 内部是 final char value[] 保证 immutable
+
+equals
 
 ```Java
 public boolean equals(Object anObject) {
@@ -25,3 +29,5 @@ public boolean equals(Object anObject) {
         return false;
     }
 ```
+
+contentEquals
