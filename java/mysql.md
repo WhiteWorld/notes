@@ -24,3 +24,23 @@ InnoDB 体系结构
     - 重做日志缓冲
     - 额外内存池
 
+CheckPoint 
+
+- Sharp CheckPoint 数据库关闭时刷新脏页到磁盘
+- Fuzzy CheckPoint 刷新一部分脏页到磁盘
+    - Master Thread CheckPoint
+    - FLUSH_LRU_LIST CheckPoint
+    - Async/Sync Flush CheckPoint
+    - Dirty Page too much CheckPoint
+
+Master Thread
+
+- loop 、backgroup loop 、flush loop 、suspend loop
+
+InnoDB 关键特性
+
+- 插入缓冲
+- 两次写
+- 自适应哈希索引
+- 异步 IO
+- 刷新邻接页
